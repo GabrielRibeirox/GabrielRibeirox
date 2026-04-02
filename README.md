@@ -1,5 +1,11 @@
 ### Hello World 👋
- 
-- 🔭 I’m currently working freelancer and looking for new opportunities
-- 🌱 I’m currently working with JAVASCRIPT, CSS Sass, HTML, REACT, REACT NATIVE, SQL, MVC
-- 📫 How to reach me: insta #gabriell_ribeiroz and linkedin: https://www.linkedin.com/in/gabriel-ribeirodev
+
+- 💻 Software Developer with 3+ years of experience building web applications
+- 🔭 Currently working on private GitLab projects (enterprise environment) and open to new opportunities
+- ⚙️ Tech stack: JavaScript, TypeScript, React, Next.js, Java (Spring Boot), SQL
+- 🧠 Focused on performance, scalable front-end architecture, and clean code
+- 🌍 Interested in international opportunities and remote work
+
+- 📫 How to reach me:
+  LinkedIn: https://www.linkedin.com/in/gabriel-ribeirodev
+  Instagram: @gabriell_ribeiroz
